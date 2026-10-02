@@ -1,0 +1,8 @@
+{
+  "name": "Remix Final Client Design Project",
+  "description": "Import and continue development on the existing client design repository to streamline your collaborative workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
